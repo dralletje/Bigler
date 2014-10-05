@@ -9,3 +9,7 @@
 # I think everyone should accept the EULA himself
 /eula.txt
 .update-lock
+
+# Ignores all hidden files.
+.*
+!/.gitignore
