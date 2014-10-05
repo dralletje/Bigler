@@ -13,3 +13,5 @@
 # Ignores all hidden files.
 .*
 !/.gitignore
+
+plugins/CommandHelper/persistence.db
