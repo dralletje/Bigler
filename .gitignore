@@ -1,11 +1,10 @@
 # Ignore every jar files, these should be downloaded with a bootstrap script
 *.jar
 
-# Logs are per-server
-/logs
-
 # Per-server files
 /*.json
+/worlds
+/logs
 
 # I think everyone should accept the EULA himself
 /eula.txt
