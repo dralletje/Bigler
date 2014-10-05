@@ -4,6 +4,9 @@
 # Logs are per-server
 /logs
 
+# Per-server files
+/*.json
+
 # I think everyone should accept the EULA himself
 /eula.txt
 .update-lock
