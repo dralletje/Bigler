@@ -2,10 +2,10 @@
 # As you can see, there's actually not that much to configure without any plugins.
 # For a reference for any variable inside this file, check out the Bukkit Wiki at
 # http://wiki.bukkit.org/Bukkit.yml
-#
+# 
 # If you need help on this file, feel free to join us on irc or leave a message
 # on the forums asking for advice.
-#
+# 
 # IRC: #spigot @ irc.spi.gt
 #    (If this means nothing to you, just go to http://irc.spi.gt/iris/?nick=&channels=spigot )
 # Forums: http://www.spigotmc.org/forums/help.40/
@@ -13,11 +13,7 @@
 
 
 settings:
-  # Put all worlds in one container folders
-  world-container: worlds
-
   allow-end: true
-  # A little more silent
   warn-on-overload: false
   permissions-file: permissions.yml
   update-folder: update
@@ -28,6 +24,7 @@ settings:
   query-plugins: true
   deprecated-verbose: default
   shutdown-message: Server shut down
+  world-container: worlds
 spawn-limits:
   monsters: 70
   animals: 15
@@ -41,7 +38,6 @@ ticks-per:
   monster-spawns: 1
   autosave: 6000
 auto-updater:
-  # Auto-updating breaks the chains
   enabled: false
   on-broken:
   - warn-console
