@@ -1,0 +1,2 @@
+# Ignore every jar files, these should be downloaded with a bootstrap script
+*.jar
