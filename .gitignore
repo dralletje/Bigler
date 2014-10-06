@@ -15,3 +15,7 @@
 !/.gitignore
 
 plugins/CommandHelper/persistence.db
+
+*.log
+
+*.lck
