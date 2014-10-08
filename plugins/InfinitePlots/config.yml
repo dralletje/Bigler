@@ -1,5 +1,5 @@
 generator-only: true
-grid-size: 32
+grid-size: 64
 grid-height: 20
 use-signs: true
 track-stats: true
