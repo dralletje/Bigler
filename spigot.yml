@@ -49,7 +49,7 @@ commands:
   log: true
   spam-exclusions:
   - /skill
-  silent-commandblock-console: false
+  silent-commandblock-console: true
   replace-commands:
   - setblock
   - summon
@@ -59,7 +59,7 @@ commands:
 world-settings:
   default:
     verbose: false
-    view-distance: 10
+    view-distance: 15
     hanging-tick-frequency: 100
     chunks-per-tick: 0
     clear-tick-list: false
