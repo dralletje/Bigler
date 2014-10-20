@@ -1,0 +1,4 @@
+plugins:
+  InfinitePlots.jar: http://dev.bukkit.org/media/files/724/86/InfinitePlots.jar
+  #Commandhelper.jar: http://builds.enginehub.org/job/commandhelper/6152/download/commandhelper-3.3.1-SNAPSHOT.jar
+  Worldedit.jar: http://dev.bukkit.org/media/files/799/519/worldedit-5.6.3.jar
